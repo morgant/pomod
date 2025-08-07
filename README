@@ -64,8 +64,11 @@ FILES
               Socket for the user.
 
 LICENSE
-       This software is in public domain and is provided AS IS,
+       This software was initially released in the public domain in 2021 by Lucas de Sena and was provided AS IS,
        with NO WARRANTY.
+
+       This software has been re-released under the [MIT license](LICENSE), [by](https://bsd.network/@seninha/114989546976303621) [permission](https://bsd.network/@seninha/114989651077985379), in 2025 by Morgan Aldridge.
+
 
 SEE ALSO
        https://en.wikipedia.org/wiki/Pomodoro_Technique
